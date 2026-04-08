@@ -1,4 +1,3 @@
-:::writing{variant=“standard” id=“10484”}
 
 MERN Stack Authentication & CRUD with MySQL
 
