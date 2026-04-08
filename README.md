@@ -122,7 +122,7 @@ MYSQL DATABASE
 MYSQL ITEMS
 ![Items Sql](./screenshots/sqlitem.png)
 MYSQL USERS
-![Users Sql](./screenshots/sqlusers.png.png)
+![Users Sql](./screenshots/sqlusers.png)
 
 FOLDER STRUCTURE
 mern-project
