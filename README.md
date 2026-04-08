@@ -8,20 +8,32 @@ This is a full-stack MERN application built using React.js, Node.js, Express.js,
 
 The project includes:
 	•	User Registration
+
 	•	Login Authentication
+
 	•	Forgot Password
+
 	•	Reset Password
+
 	•	JWT Token Authentication
+
 	•	Protected Dashboard
+
 	•	Full CRUD Operations
+
 	•	Statistics Cards
+
 	•	Search and Filter
+
 	•	Pagination
+
 	•	Dark Mode Toggle
+
 	•	Export Items to CSV
+
 	•	Profile Update Page
 
-This project was developed as part of the CampusPe Full Stack Development Assignment.
+
 
 Tech Stack
 Frontend
@@ -46,23 +58,24 @@ Database Name:mern_auth_db
 
 Tables:
 	•	users
+
 	•	items
 
-Backend Setup
-cd backend
-npm install
-npm run dev
-Runs on :
-http://localhost:5000
+>Backend Setup
+>cd backend
+>npm install
+>npm run dev
+>Runs on :
+>http://localhost:5000
 
 Authentication Routes
 
-POST /api/auth/register
-POST /api/auth/login
-POST /api/auth/forgot-password
-POST /api/auth/reset-password
-GET  /api/auth/me
-PUT  /api/auth/profile
+>POST /api/auth/register
+>POST /api/auth/login
+>POST /api/auth/forgot-password
+>POST /api/auth/reset-password
+>GET  /api/auth/me
+>PUT  /api/auth/profile
 
 DASBOARD ROUTES
 GET    /api/items
@@ -96,31 +109,46 @@ SCREENSHOTS
 
 LOGIN PAGE
 ![Login](./screenshots/LoginPage.png)
+
 REGISTER PAGE
 ![Register](./screenshots/Registerpg.png)
+
 FORGOT PASSWORD
 ![Forgot Password](./screenshots/Forgotpwdpg.png)
+
 RESET PASSWORD
 ![Reset Password](./screenshots/Resetpwdpg.png)
+
 DASHBOARD PAGE 
 ![Dashboard](./screenshots/Dashboardpg.png)
+
 CRUD OPERATIONS
 ITEM CREATE
 ![Item Add](./screenshots/itemcreate.png)
+
 EDIT ITEM
 ![Edit Item](./screenshots/edititem.png)
+
 ITEM DELETE
 ![Item Delete](./screenshots/itemdelete.png)
+
 BONUS FEATURES
 EXPORT CSV
 ![Export CSV](./screenshots/exportcsv.png)
+
 PAGINATION
-![Pgination](./screenshots/paginaton.png)
+![Pagination](./screenshots/paginaton.png)
+
+PROFILE UPDATE
+![Profile update](./screenshots/profile.png)
+
 
 MYSQL DATABASE
 ![Database Sql](./screenshots/mernauthtb.png)
+
 MYSQL ITEMS
 ![Items Sql](./screenshots/sqlitem.png)
+
 MYSQL USERS
 ![Users Sql](./screenshots/sqlusers.png)
 
